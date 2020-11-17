@@ -197,4 +197,4 @@ async def serverinfo(ctx):
     message = f"**Bonjour Mon amis !** \nLe server s'appelle: *{ServerNom}*. \nLe server contient {NombrePerson} personnes. \nLa description du server est: {DescriptionServer}. \nCe server possède {TextChannels} salon textuels. \nCe server possède {VoiceChannels} salon vocaux"
     await ctx.send(message)
 
-bot.run ("Njg3MDE3NTYwNjQ2MjIxODQ1.Xmfo9g.dErARmplURnqvcwoheElsWxNkKY")
+bot.run ("")
